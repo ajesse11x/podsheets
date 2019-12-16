@@ -19,7 +19,7 @@
   "author": "Rodrigo Pimentel",
   "license": "Unlicense",
   "dependencies": {
-    "audio-buffer-utils": "^5.1.1",
+    "audio-buffer-utils": "^5.1.2",
     "audio-format": "^2.2.1",
     "moment": "^2.18.1",
     "react-quill": "v1.0.0-rc.3",
