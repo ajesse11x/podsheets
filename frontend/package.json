@@ -12,7 +12,9 @@
     "lint": "tslint 'src/**/*.ts?(x)'",
     "dev": "npm run clear && webpack-dev-server -d --inline --hot --progress --no-info",
     "clear": "rm -rf dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
   },
   "author": "Rodrigo Pimentel",
   "license": "Unlicense",
@@ -82,6 +84,8 @@
     "sample-rate": "1.0.0",
     "semantic-ui-react": "^0.68.0",
     "style-loader": "^0.23.1",
-    "waveform-playlist": "^3.0.4"
-  }
+    "waveform-playlist": "^3.0.4",
+    "snyk": "^1.316.1"
+  },
+  "snyk": true
 }
