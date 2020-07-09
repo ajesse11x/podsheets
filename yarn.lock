@@ -226,9 +226,10 @@ quill@^1.2.6:
     parchment "1.0.9"
     quill-delta "3.5.0"
 
-react-quill@v1.0.0-rc.3:
-  version "1.0.0-rc.3"
-  resolved "https://registry.yarnpkg.com/react-quill/-/react-quill-1.0.0-rc.3.tgz#5cd6682dca11f6a31fc8e4457d1bfb93e42c10f2"
+react-quill@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-quill/-/react-quill-1.0.0.tgz#26c41746a0deb298a7549362cfa69c87db4d9399"
+  integrity sha1-JsQXRqDespinVJNiz6ach9tNk5k=
   dependencies:
     lodash "^4.17.4"
     quill "^1.2.6"
