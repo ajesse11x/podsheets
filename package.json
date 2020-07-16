@@ -23,7 +23,7 @@
     "audio-format": "^2.2.1",
     "moment": "^2.18.1",
     "react-quill": "v1.0.0-rc.3",
-    "worker-loader": "^0.8.1"
+    "worker-loader": "^1.1.1"
   },
   "devDependencies": {
     "@types/node": "^8.0.17",
