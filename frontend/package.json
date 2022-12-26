@@ -81,7 +81,7 @@
     "resize-observer-polyfill": "^1.4.2",
     "sample-rate": "1.0.0",
     "semantic-ui-react": "^0.68.0",
-    "style-loader": "^0.23.1",
+    "style-loader": "^1.1.4",
     "waveform-playlist": "^3.0.4"
   }
 }
