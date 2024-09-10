@@ -73,7 +73,7 @@
     "react-dom": "^15.4.0",
     "react-facebook": "^4.0.14",
     "react-quill": "git+https://github.com/zenoamaro/react-quill.git",
-    "react-router-dom": "^4.1.1",
+    "react-router-dom": "^6.0.0",
     "react-share": "^1.15.0",
     "react-slick": "^0.14.11",
     "react-stripe-checkout": "^2.4.0",
